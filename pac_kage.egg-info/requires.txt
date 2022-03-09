@@ -1,0 +1,12 @@
+prefect
+
+[docs]
+jupytext>=1.11.2
+sphinxcontrib-prefecttask@ git+https://github.com/sphinx-contrib/prefecttask.git#egg=sphinxcontrib-prefecttask
+sphinxcontrib-prefectviz
+myst-nb
+sphinx
+sphinx-autodoc-typehints
+sphinx-copybutton
+sphinx-inline-tabs
+sphinx-material

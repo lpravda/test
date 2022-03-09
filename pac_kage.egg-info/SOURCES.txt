@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+pac_kage.egg-info/PKG-INFO
+pac_kage.egg-info/SOURCES.txt
+pac_kage.egg-info/dependency_links.txt
+pac_kage.egg-info/requires.txt
+pac_kage.egg-info/top_level.txt
